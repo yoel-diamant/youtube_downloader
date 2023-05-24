@@ -1,5 +1,5 @@
-# youtube_downloader
-Python Scrpit To Donlowd YouTube Vidoe
+# YouTube Downloader
+Python script to download youtube videos
 
 # how to use 
 ```bash
